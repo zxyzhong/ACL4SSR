@@ -1,0 +1,14 @@
+payload:
+  # 内容：国内AI
+  # 只收录各平台已核实的专用网站或 API 主机，不含阿里云、百度、腾讯、火山引擎整域
+  - DOMAIN-SUFFIX,deepseek.com
+  - DOMAIN-SUFFIX,qianwen.com
+  - DOMAIN,dashscope.aliyuncs.com
+  - DOMAIN-SUFFIX,bigmodel.cn
+  - DOMAIN-SUFFIX,chatglm.cn
+  - DOMAIN-SUFFIX,kimi.com
+  - DOMAIN-SUFFIX,api.moonshot.cn
+  - DOMAIN-SUFFIX,doubao.com
+  - DOMAIN-SUFFIX,yuanbao.tencent.com
+  - DOMAIN-SUFFIX,wenxin.baidu.com
+  - DOMAIN-SUFFIX,yiyan.baidu.com
